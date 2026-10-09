@@ -162,7 +162,7 @@
     "storybook": "10.3.3",
     "storybook-next-intl": "10.1.1",
     "tailwindcss": "^4.2.2",
-    "trigger.dev": "4.3.3",
+    "trigger.dev": "4.5.9",
     "ts-node": "^10.9.1",
     "tsconfig-paths-webpack-plugin": "4.1.0",
     "typescript": "^5.5.2",
